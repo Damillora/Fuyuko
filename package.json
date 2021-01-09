@@ -1,5 +1,5 @@
 {
-  "name": "asahi",
+  "name": "@damillora/fuyuko",
   "version": "1.0.0",
   "description": "Gemini server used at gemini.nanao.moe",
   "main": "index.js",
