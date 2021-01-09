@@ -1,0 +1,14 @@
+{
+  "name": "asahi",
+  "version": "1.0.0",
+  "description": "Gemini server used at gemini.nanao.moe",
+  "main": "index.js",
+  "repository": "https://github.com/Damillora/Fuyuko",
+  "author": "Damillora",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@derhuerst/gemini": "^1.1.1",
+    "mime-types": "^2.1.28"
+  }
+}

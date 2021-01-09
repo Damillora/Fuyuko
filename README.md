@@ -1,3 +1,3 @@
 # Fuyuko
 
-A minimal framework for creating Gemini-based applications
+A Node-based Gemini server running on gemini.nanao.moe
