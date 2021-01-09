@@ -1,6 +1,7 @@
 const {createServer, DEFAULT_PORT} = require('@derhuerst/gemini')
 const fs = require('fs');
 
+require('dotenv').config()
 // handlers
 var fileServer = require("./handlers/fileServer");
 
